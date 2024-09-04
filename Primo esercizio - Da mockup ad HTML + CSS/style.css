@@ -1,0 +1,114 @@
+html body {
+    margin: 0;
+}
+
+header {
+    width: 100%;
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+    margin-top: 15px;
+}
+
+header p {
+    background-color: rgb(254, 251, 241);
+    border-top: 1px solid rgb(255, 217, 119);
+    padding: 18px;
+    color: rgb(0, 77, 77);
+    font-size: 0.9em;
+}
+
+.descrizione-pinsa {
+    width: 100%;
+}
+
+.descrizione-pinsa h1 {
+    font-size: 1.7em;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.descrizione {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 10px 0 15px 0;
+    font-size: 1.1em;
+}
+
+.descrizione-pinsa img {
+    margin: 0 auto;
+    display: block;
+    border-radius: 10pt;
+    width: 50%;
+}
+
+.autore {
+    color: gray;
+    text-align: center;
+}
+
+.contenitore-paragrafo-link {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 10px 0 15px 0;
+    font-size: 1.1em;
+    border-left: 1px solid rgb(255, 217, 119);
+    padding-left: 15px;
+    height: ;
+    margin-top: 0;
+    
+}
+
+.contenitore-paragrafo-link p {
+    margin: 0;
+    color: rgb(181, 70, 15);
+}
+
+.bordo-sotto-celeste {
+    max-width: 50%;
+    width: 100%;
+    border-bottom: 1px solid rgb(197, 243, 243);
+    margin: 0 auto;
+    font-size: 1.7em;
+}
+
+.bordo-sotto-celeste p {
+    margin: 15px 0;
+}
+
+.contenitore-ingredienti {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.contenitore-ingredienti h3 {
+    font-size: 1.3em;
+}
+
+
+.contenitore-ingredienti ul li {
+    padding-bottom: 18px;
+}
+
+.ricetta {
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.ricetta ol {
+    margin-top: 35px;
+}
+
+.link-finale {
+    margin: 0 auto;
+    max-width: 50%;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 1.15em;
+}
+
+ a {
+    color: rgb(17, 119, 119);
+}
